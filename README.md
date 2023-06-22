@@ -1,1 +1,1 @@
-https://sorydory7.github.io
+https://sorydory.github.io
