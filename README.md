@@ -11,7 +11,7 @@ JavaScript를 사용하여 만든 포트폴리오입니다.
 
 ## 🔎 프로젝트 목록
 
-#### 1. JavaScript를 활용한 웹 사이트 (야구 게임) - 팀 프로젝트
+#### 1. JavaScript를 활용한 게임 (야구 게임) - 팀 프로젝트
 
 + [GitHub 이동](https://github.com/sorydory/JavaScript-Baseballgame)
 
