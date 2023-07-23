@@ -57,3 +57,61 @@ h1 {
   color: transparent;
   -webkit-text-stroke: var(--primary-color) 2px;
 }
+
+@media screen and (max-width: 767px) {
+  #login-form {
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    width: 100vw;
+    height: inherit;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  h1 {
+    font-family: "Raleway", sans-serif;
+    font-size: 50px;
+    margin-bottom: 60px;
+    width: 1300px;
+  }
+
+  #inputbox {
+    box-sizing: border-box;
+    width: 400px;
+    height: 50px;
+    padding: 13px 10px 10px;
+    background-color: transparent;
+    font-size: 25px;
+    text-align: center;
+    border-width: 0;
+    border-bottom: 2px solid var(--primary-color);
+  }
+
+  #inputbox:focus {
+    outline: none;
+  }
+
+  #inputbtn {
+    margin-top: 30px;
+    font-size: 20px;
+    width: 400px;
+    height: 50px;
+    background: black;
+    border-width: 0;
+    border-radius: 10px;
+    color: #ffffff;
+  }
+
+  .font-roboto {
+    font-family: "Roboto", sans-serif;
+  }
+
+  .transparent {
+    color: transparent;
+    -webkit-text-stroke: var(--primary-color) 2px;
+  }
+}

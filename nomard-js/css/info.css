@@ -23,3 +23,26 @@
 #city {
   margin-right: 15px;
 }
+
+@media screen and (max-width: 767px) {
+  #info:before {
+    width: 20px;
+    content: "";
+    border-bottom: 3.3px solid #1c1b1b;
+  }
+
+  #info {
+    font-weight: 500;
+    display: flex;
+    justify-content: flex-end;
+    box-sizing: border-box;
+    font-size: 18px;
+    padding: 20px;
+  }
+
+  #weather,
+  #clock,
+  #city {
+    margin-right: 15px;
+  }
+}
