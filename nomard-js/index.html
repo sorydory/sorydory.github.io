@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To Do List</title>
+    <link rel="stylesheet" href="./css/reset.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/login.css" />
+    <link rel="stylesheet" href="./css/todo.css" />
+    <link rel="stylesheet" href="./css/info.css" />
+  </head>
+  <body>
+    <form id="login-form">
+      <h1>
+        Hi there<i class="font-roboto">,</i><br />
+        How are you?
+      </h1>
+      <input
+        id="inputbox"
+        type="text"
+        placeholder="Write your name."
+        onfocus="this.placeholder=''"
+        onblur="this.placeholder='Write your name.'"
+      />
+      <input id="inputbtn" type="submit" value="Enter" />
+    </form>
+
+    <div id="info">
+      <span id="city"></span>
+      <span id="weather"></span>
+      <time id="clock">00:00:00</time>
+    </div>
+
+    <main id="main">
+      <section id="left">
+        <header>
+          <h2 id="greeting">
+            <i class="transparent">Cheer Up <i class="font-roboto">!</i></i
+            ><br />
+            <span id="saved-username"></span><i class="font-roboto">.</i>
+          </h2>
+        </header>
+        <div id="today-quote" class="glassmorphism">
+          <h3 class="sub-title">Today's Quote</h3>
+          <p id="quotes"></p>
+        </div>
+      </section>
+      <section id="right" class="glassmorphism">
+        <div>
+          <h3 class="sub-title">Today's task</h3>
+          <div class="box-style">
+            <form class="todo-form">
+              <input required class="todo-input" type="text" />
+            </form>
+            <ul class="todo-list"></ul>
+          </div>
+        </div>
+      </section>
+    </main>
+    <script type="text/javascript" src="./js/background.js"></script>
+    <script type="text/javascript" src="./js/quotes.js"></script>
+    <script type="text/javascript" src="./js/greeting.js"></script>
+    <script type="text/javascript" src="./js/clock.js"></script>
+    <script type="text/javascript" src="./js/weather.js"></script>
+    <script type="text/javascript" src="./js/todo.js"></script>
+  </body>
+</html>
