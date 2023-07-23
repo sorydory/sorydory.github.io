@@ -111,8 +111,8 @@
   }
 
   #left {
-    width: 600px;
-    margin-right: 60px;
+    width: 500px;
+    margin: 0 60px;
   }
 
   #greeting {
@@ -139,17 +139,17 @@
   #right {
     display: flex;
     justify-content: space-between;
-    width: 420px;
-    margin: 10px 100px;
+    width: 360px;
+    margin: 10px 150px;
     height: 40vh;
-    padding: 50px;
+    padding: 20px;
     border-radius: 20px;
     box-sizing: border-box;
   }
 
   #right .box-style {
-    width: 320px;
-    height: 90%;
+    width: 300px;
+    height: 80%;
   }
 
   .todo-style {

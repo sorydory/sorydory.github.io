@@ -81,7 +81,7 @@ h1 {
 
   #inputbox {
     box-sizing: border-box;
-    width: 400px;
+    width: 300px;
     height: 50px;
     padding: 13px 10px 10px;
     background-color: transparent;
@@ -98,7 +98,7 @@ h1 {
   #inputbtn {
     margin-top: 30px;
     font-size: 20px;
-    width: 400px;
+    width: 300px;
     height: 50px;
     background: black;
     border-width: 0;
