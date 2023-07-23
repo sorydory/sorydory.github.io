@@ -1,63 +1,35 @@
 const quotes = [
   {
-    quote: "나약한 태도는 성격도 나약하게 만든다.",
-    author: "Albert Einstein",
+    quote: "늘 행복하고 지혜로운 사람이 되려면 자주 변해야 한다.",
+    author: "Confucius",
   },
   {
-    quote:
-      "성공은 결코 최종 목표가 아니라, 실패에서 실패로 걸어가는 과정에서 온다.",
-    author: "Winston Churchill",
+    quote: "인생이란 누구나 한 번쯤 시도해 볼 만한 것이다.",
+    author: "Henry J. Tillman",
   },
   {
-    quote:
-      "당신이 세상을 변화시키려고 기다린다면, 당신은 아무것도 이룰 수 없다.\n변화는 당신으로부터 시작되어야 한다.",
-    author: "Mahatma Gandhi",
+    quote: "때로는 살아있는 것조차도 용기가 될 때가 있다.",
+    author: "Seneca",
   },
   {
-    quote:
-      "가장 훌륭한 시간은 언제인가? 10년 전이었다.\n다음으로 좋은 시간은 오늘이다.",
-    author: "Yohan Ko",
+    quote: "인생은 밀림 속의 동물원이다.",
+    author: "Peter De Vries",
   },
   {
-    quote: "모든 순간이 새로운 시작이다.",
-    author: "T.S Eliot",
+    quote: "바삐 태어나지 않은 자는 바삐 죽는다.",
+    author: "Bob Dylan",
   },
   {
-    quote: "네가 상상하는 모든 것이 현실이다.",
-    author: "Pablo Picasso",
+    quote: "내일은 우리가 어제로부터 무엇인가 배웠기를 바란다.",
+    author: "John Wayne",
   },
   {
-    quote: "단순함이 궁극적인 정교함이다.",
-    author: "Leonardo da Vinci",
+    quote: "교육의 위대한 목표는 앎이 아니라 행동이다.",
+    author: "Herbert Spencer",
   },
   {
-    quote: "20대에는 의지, 30대에는 기지, 40대에는 판단이 지배한다.",
-    author: "Benjamin Franklin",
-  },
-  {
-    quote:
-      "인생은 거울과 같으니, 비친 것을 밖에서 들여다 보기 보다\n먼저 자신의 내면을 살펴야 한다.",
-    author: "Wally Famous Amos",
-  },
-  {
-    quote: "큰 희망이 큰 사람을 만든다.",
-    author: "Thomas Fuller",
-  },
-  {
-    quote: "웃음은 두 사람간의 가장 가까운 거리다",
-    author: "Victor Borge",
-  },
-  {
-    quote: "두려움은 희망 없이 있을 수 없고 희망은 두려움없이 있을 수 없다.",
-    author: "Baruch Spinoza",
-  },
-  {
-    quote: "오늘 할 수 있는 일을 내일로 미루지 마라.",
-    author: "Benjamin Franklin",
-  },
-  {
-    quote: "자존심은 가장 고귀한 인격을 망친다.",
-    author: "Claudianus",
+    quote: "젊었을 때 배움을 게을리 한 사람은 과거를 상실하며 미래도 없다.",
+    author: "Euripides",
   },
 ];
 
