@@ -20,7 +20,7 @@ JavaScript를 사용하여 만든 포트폴리오입니다.
 + [GitHub 클라이언트 이동](https://github.com/sorydory/React-cosmeticshop-client)
 + [GitHub 서버 이동](https://github.com/sorydory/React-cosmeticshop-server)
 
-#### 3. React, Node.js를 활용한 웹 사이트 (게임 사이트) - 팀 프로젝트
+#### 3. React, Node.js를 활용한 웹 사이트 (게임 사이트) - 개인 프로젝트
 
 + [GitHub 클라이언트 이동](https://github.com/sorydory/React-nexon)
 + [GitHub 서버 이동](https://github.com/sorydory/React-nexon-server)
